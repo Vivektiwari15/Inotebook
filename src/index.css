@@ -1,0 +1,79 @@
+.fa-solid{
+  cursor: pointer;
+}
+.modals{
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 70%;
+  position: absolute;
+  top: 100px;
+  right: 190px;
+}
+
+.emodal{
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 70%;
+  height: 60%;
+  position: absolute;
+  top: 100px;
+  right: 190px;
+}
+
+#cls{
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+}
+
+.sz{
+  font-size: larger;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.abhd{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#profile{
+  border: 1px solid white;
+  padding: 14px;
+  border-radius: 300px;
+}
+
+.pcard{
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border: 5px solid lime;
+  border-radius: 200px;
+  box-shadow: 1px 35px 15px black;
+}
+
+.spc{
+  margin-top: 100px;
+}
+
+.pimg{
+  text-align: center;
+  font-size: 150px;
+  border-bottom: 4px solid white;
+  border-right: 2px solid white;
+  border-left: 2px solid white;
+  border-radius: 500px;
+  box-shadow: 3px 3px 6px white;
+}
+
+.pname{
+  text-align: center;
+  margin-top: 35px;
+  padding: 10px;
+}
+
+.pemail{
+  text-align: center;
+  padding: 10px;
+}
